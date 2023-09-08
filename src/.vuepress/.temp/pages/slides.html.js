@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-2e3eac9e\",\"path\":\"/slides.html\",\"title\":\"幻灯片页\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"幻灯片页\",\"icon\":\"person-chalkboard\",\"layout\":\"Slide\"},\"headers\":[],\"git\":{},\"readingTime\":{\"minutes\":4.51,\"words\":1352},\"filePathRelative\":\"slides.md\"}")
