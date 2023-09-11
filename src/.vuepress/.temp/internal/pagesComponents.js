@@ -21,6 +21,8 @@ export const pagesComponents = {
   "v-71c50ac4": defineAsyncComponent(() => import(/* webpackChunkName: "v-71c50ac4" */"/Users/liwenan/bchem/pc-framework/hgb-admin-doc/src/.vuepress/.temp/pages/guide/router.html.vue")),
   // path: /guide/setting.html
   "v-334edb75": defineAsyncComponent(() => import(/* webpackChunkName: "v-334edb75" */"/Users/liwenan/bchem/pc-framework/hgb-admin-doc/src/.vuepress/.temp/pages/guide/setting.html.vue")),
+  // path: /suit/
+  "v-154e5769": defineAsyncComponent(() => import(/* webpackChunkName: "v-154e5769" */"/Users/liwenan/bchem/pc-framework/hgb-admin-doc/src/.vuepress/.temp/pages/suit/index.html.vue")),
   // path: /404.html
   "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"/Users/liwenan/bchem/pc-framework/hgb-admin-doc/src/.vuepress/.temp/pages/404.html.vue")),
 }

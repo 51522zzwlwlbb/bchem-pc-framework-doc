@@ -9,5 +9,6 @@ export const pagesRoutes = [
   ["v-00cf7e23","/guide/mock.html",{"y":"a","t":"数据 mock&联调"},[":md"]],
   ["v-71c50ac4","/guide/router.html",{"y":"a","t":"路由"},[":md"]],
   ["v-334edb75","/guide/setting.html",{"y":"a","t":"配置"},[":md"]],
+  ["v-154e5769","/suit/",{"y":"a","t":"配置项目"},["/suit/README.md"]],
   ["v-3706649a","/404.html",{"y":"p","t":""},[]],
 ]
