@@ -53,11 +53,11 @@ highlights:
 
       - title: 像德芙一样
         icon: superscript
-        details: 一页几百条也不在话下，因为我有虚拟列表 + 懒加载
+        details: 一页几百条也不在话下，得益于虚拟列表 + 懒加载
 
       - title: 配置化
         icon: person-chalkboard
-        details: 只写js，对着文档谁都可以是开发
+        details: 基于render函数，脱离template，更益于理解
 
   - header: 底层架构
     description: 框架就像地基，能盖几层全看地基
@@ -113,5 +113,5 @@ highlights:
         link: https://theme-hope.vuejs.press/zh/guide/feature/copy-code.html
 
 copyright: false
-footer: <a href="https://theme-hope.vuejs.press/zh/" target="_blank">HGB-admin</a> | MIT 协议, 版权所有 © 2023-present HGB
+footer: <a href="https://51522zzwlwlbb.github.io/hgb-admin/" target="_blank">HGB-admin</a> | MIT 协议, 版权所有 © 2023-present HGB
 ---

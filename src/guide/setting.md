@@ -90,9 +90,11 @@ VITE_GLOB_API_URL_PREFIX=
 # 是否开启mock
 VITE_USE_MOCK=false
 # 网站根目录
-VITE_PUBLIC_PATH=/
+VITE_PUBLIC_PATH=/hgb-admin/
+# 只有_GLOB_前缀的才会注入到运行时
+VITE_GLOB_PUBLIC_PATH=/hgb-admin/
 # 网站前缀
-VITE_BASE_URL=/
+VITE_BASE_URL=/hgb-admin/
 # 是否删除console
 VITE_DROP_CONSOLE=true
 # API
@@ -194,8 +196,6 @@ const setting = {
         //显示重载按钮
         isReload: true,
     },
-    //页脚
-    showFooter: true,
     //多标签
     multiTabsSetting: {
         //背景色
